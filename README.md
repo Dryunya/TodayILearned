@@ -12,7 +12,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Architecture
 
-- [Onion architecture](architecture/onion-architecture.md) (Practice: [Onion architecture sample](architecture/onion-architecture-sample/readme.md))
+- [Onion architecture](architecture/onion-architecture.md) (Practice: [Onion architecture sample](architecture/onion-architecture-sample))
 
 ---
 # Bookmarks
