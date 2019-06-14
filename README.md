@@ -7,12 +7,17 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 * [Bookmarks](#bookmarks)
 * [Architecture](#architecture)
+* [React](#react)
 
 ---
 
 ## Architecture
 
 - [Onion architecture](architecture/onion-architecture.md) (Practice: [Onion architecture sample](architecture/onion-architecture-sample))
+
+## React
+
+- [Getting-started](react/getting-started.md) (Practice: [Getting-started sample](react/getting-started))
 
 ---
 # Bookmarks
