@@ -1,3 +1,3 @@
 # About
 
-Sample project to understand React basics
+Sample projects to understand React basics
