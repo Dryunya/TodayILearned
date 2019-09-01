@@ -17,7 +17,8 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## React
 
-- [Getting-started](react/getting-started.md) (Practice: [Getting-started sample](react/getting-started))
+- [Getting-started](react/getting-started.md) (Practice: [Tic tac toe](react/tic-tac-toe))
+- [Redux](react/redux.md) (Practice: [Tic tac toe](react/redux-sample))
 
 ---
 # Bookmarks
