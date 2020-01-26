@@ -13,12 +13,12 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Architecture
 
-- [Onion architecture](architecture/onion-architecture.md) (Practice: [Onion architecture sample](architecture/onion-architecture-sample))
+- [Onion architecture]()
 
 ## React
 
-- [Getting-started](react/getting-started.md) (Practice: [Tic tac toe](react/tic-tac-toe))
-- [Redux](react/redux.md) (Practice: [Tic tac toe](react/redux-sample))
+- [Getting-started](articles/react.md) (Practice: [Tic tac toe](practice/react/redux-sample))
+- [Redux]()
 
 ---
 # Bookmarks
