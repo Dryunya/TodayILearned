@@ -1,28 +1,7 @@
-//lists
-let firstList = [ 1; 2; 3; 4; 5 ]
-let secondList = 0 :: firstList
-let anotherList = [ -2; -1 ] @ secondList
+let mult x y z = x * y + z
 
-//functions
-let Square x = x * x
+let mult2 = mult 5
 
-let GetEvens list =
-    let isEven x = x % 2 = 0
-    List.filter isEven list
+let result = mult2 10 2
 
-let PipedOperations list =
-    list
-    |> List.map (fun x -> x * 3)
-    |> GetEvens    
-    |> List.sum
-
-PipedOperations anotherList
-
-let simplePatternMatch x =
-   let a = x % 2
-   match a with
-    | 0 -> 10
-    | 1 -> 20
-    | _ -> 30
-
-let mapInAction = List.map simplePatternMatch firstList
+printfn "result %i \n" result
